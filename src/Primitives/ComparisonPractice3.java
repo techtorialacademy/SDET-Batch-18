@@ -53,6 +53,9 @@ public class ComparisonPractice3 {
         boolean r3 = myDistance  > lastRequiredDistance;
         System.out.println("Paying $10: "+ r3);
 
+        System.out.println( true == true == false);
+
+        System.out.println( true && true ||false);
 
     }
 }

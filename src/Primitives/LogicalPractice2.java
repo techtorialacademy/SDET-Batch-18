@@ -33,6 +33,19 @@ public class LogicalPractice2 {
 
 
 
+        /*
+         !
+         + , -
+         > , <
+         && ||
+         */
+
+        System.out.println(    !true || (5 * 2 > 20)            );
+
+        System.out.println(  5 - 3 != 3 && !("john" != "sam")    );
+
+        System.out.println( true || true || false && false);
+
 
 
 
